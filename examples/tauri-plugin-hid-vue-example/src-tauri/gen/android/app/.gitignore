@@ -1,0 +1,6 @@
+/src/main/java/uk/redfern/tauri_plugin_hid_vue_example_app/generated
+/src/main/jniLibs/**/*.so
+/src/main/assets/tauri.conf.json
+/tauri.build.gradle.kts
+/proguard-tauri.pro
+/tauri.properties

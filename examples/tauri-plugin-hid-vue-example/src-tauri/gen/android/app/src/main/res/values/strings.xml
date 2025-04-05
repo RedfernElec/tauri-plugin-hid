@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">tauri-plugin-hid-vue-example</string>
+    <string name="main_activity_title">tauri-plugin-hid-vue-example</string>
+</resources>
